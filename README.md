@@ -285,5 +285,5 @@ LED ON
 
 | | |
 |---|---|
-| Name        | `SUMITH DANI M` |
+| Name        | `SUMITH DANI M, GOKUL PRASAD H` |
 | Institution | `SAVEETHA ENGINEERING COLLEGE` |
